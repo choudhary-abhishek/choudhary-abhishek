@@ -11,7 +11,8 @@
 - 🎓 **4th year B.Tech Student at Quantum University**
 - 💻 Currently learning: `JavaScript`, `React.js`, `Node.js`
 - 🧩 I love building real-world creative web apps
-- 📫 Email me at: **yourmail@gmail.com**
+-  Email me at: **Choudhary7662@gmail.com**
+- <img src="https://www.google.com/imgres?q=linkedin%20logo&imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FL%2Flinkedin-logo-A6EF048412-seeklogo.com.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F480553%2Flinkedin&docid=AqN7yrM-WE2TGM&tbnid=NuCxBmYwU0iznM&vet=12ahUKEwj5w9a67qWOAxWOiK8BHSscKP0QM3oECDkQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwj5w9a67qWOAxWOiK8BHSscKP0QM3oECDkQAA" alt="linkdin" /> Linkdin : https://www.linkedin.com/in/abhishek-choudhary-145627259/
 
 ---
 
@@ -33,9 +34,6 @@
 - 🔐 **Women Safety Location Sharing App**  
   Emergency app to share live location for safety 📍
 
-- 🤖 **Wi-Fi Based Local Quiz System**  
-  Quiz system for colleges using local network
-
 - 📸 **Meme Sharing App**  
   Upload, like, filter, and enjoy memes 😄
 
@@ -53,7 +51,7 @@
 ### 📫 Contact Me
 
 <p>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:choudhary7662@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
