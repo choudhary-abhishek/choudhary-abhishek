@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
-<h3 align="center">A passionate Web Developer & Problem Solver from India 🇮🇳</h3>
+<h3 align="center">A passionate Web Developer & 4th Year Student at Quantum University 🎓 Roorkee ,Uttarakhand</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishek123&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek123" />
@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I'm a **student** passionate about tech & real-world solutions  
-- 💻 Currently learning: `JavaScript`, `React.js`, `Node.js`  
-- 🧩 I love building creative projects & exploring new tools  
-- 📫 Reach me at: **yourmail@gmail.com**
+- 🎓 **4th year B.Tech Student at Quantum University**
+- 💻 Currently learning: `JavaScript`, `React.js`, `Node.js`
+- 🧩 I love building real-world creative web apps
+- 📫 Email me at: **yourmail@gmail.com**
 
 ---
 
@@ -31,13 +31,13 @@
 ### 💡 Projects I'm Proud Of
 
 - 🔐 **Women Safety Location Sharing App**  
-  A real-world project for emergency location sharing.
+  Emergency app to share live location for safety 📍
 
 - 🤖 **Wi-Fi Based Local Quiz System**  
-  Offline quiz system that works over local Wi-Fi.
+  Quiz system for colleges using local network
 
 - 📸 **Meme Sharing App**  
-  Fun app for uploading, liking, filtering memes.
+  Upload, like, filter, and enjoy memes 😄
 
 ---
 
@@ -50,14 +50,12 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact Me
 
 <p>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">⚡ Let's build cool things together!</p>
+<p align="center">⚡ Let's create cool things and learn together!</p>
